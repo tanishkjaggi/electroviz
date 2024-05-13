@@ -25,8 +25,13 @@ The project generates the following outputs:
 - C++: OpenGL, Windows API ( resource folders included )
 - Python: pandas, matplotlib, numpy
 
-## Math Formulas
-- Total distance traveled by an electron: \( \sqrt{{(\Delta x)^2 + (\Delta y)^2}} \)
+## Math Used 
+- Total distance traveled by an electron: 
+√[(change in x position)^2 + (change in y position)^2)] 
+
+- To update positions :
+
+new pos = old pos + velocity x change in time
 
 ## Languages Used
 - C++
